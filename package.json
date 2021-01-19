@@ -1,0 +1,23 @@
+{
+  "name": "@ruggs/animation-hooks",
+  "version": "1.0.0",
+  "description": "Hooks for animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aj-ruggles/animation-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aj-ruggles/animation-hooks/issues"
+  },
+  "homepage": "https://github.com/aj-ruggles/animation-hooks#readme"
+}
